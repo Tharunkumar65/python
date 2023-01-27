@@ -18,7 +18,7 @@ rows = int(input("Enter No. of rows:"))
 #       for j in range(i):
 #             print("*",end=" ")
 #       print("\n")      
-for i in range(rows,0,-1):
-      for j in range(i):
-            print(j+1,end=" ")
-      print("\n")      
+# for i in range(rows,0,-1):
+#       for j in range(i):
+#             print(j+1,end=" ")
+#       print("\n") 
