@@ -1,4 +1,4 @@
-num = int(input("enter your number:")) 
+num = int(input("enter your number-:")) 
 sum =0
 order = len(str(num))
 temp = num
